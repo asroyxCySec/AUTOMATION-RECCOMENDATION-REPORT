@@ -1,6 +1,0 @@
-Tools ini di buat untuk mempermudah user dalam membuat laporan rekomendasi dalam pengujian pentration testing
-
-Cara penggunaan:
-#chmod +x recom.py
-# nano recom.py // (silahkan masukkan path letak .docs)
-# ./recom.py
